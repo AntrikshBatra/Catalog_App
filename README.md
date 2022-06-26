@@ -1,6 +1,6 @@
 # flutter_catalog
 
-A new Flutter project.
+A UI based app where you can put gadgets in cart from selected items. You can login into the app and add items in to your cart.Used customised JSON file for images and information about the gadgets.
 
 ## Getting Started
 
